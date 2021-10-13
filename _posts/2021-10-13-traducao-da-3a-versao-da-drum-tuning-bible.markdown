@@ -11,7 +11,7 @@ Acredito que muita gente já deve ter ouvido falar da _Drum Tuning Bible_, um do
 
 Tive algumas dúvidas, resolvi ler a original e vi que a versão mais recente, a terceira, datada de 22 de janeiro de 2005 e disponível [aqui][profsound], aparentemente ainda não tinha tradução para o português. Decidi fazer uma.
 
-Acho que o documento pode ser útil porque tem muita informação legal lá que não exige prerrequisito nenhum. Então decidi compartilhar o resultado desse esforço de tradução. Com certeza há erros e obscuridades (o texto original em inglês é meio tortuoso e traduzir é mais luta que dança), e por isso peço que não hesitem em me enviar seus comentários e correções – meu email está na seção "NOTAS DA TRADUÇÃO" na p.3 do PDF e minhas redes socais no rodapé da página – para que eu possa atualizar o texto e incluir os nomes de vocês nos créditos da tradução.
+Acho que o documento pode ser útil porque tem muita informação legal lá que não exige prerrequisito nenhum. Então decidi compartilhar o resultado desse esforço de tradução. Com certeza há erros e obscuridades (o texto original em inglês é meio tortuoso e traduzir é mais luta que dança), e por isso peço que não hesitem em me enviar seus comentários e correções – meu email está na seção "NOTAS DA TRADUÇÃO" na p.3 do PDF e minhas redes sociais no rodapé da página – para que eu possa atualizar o texto e incluir os nomes de vocês nos créditos da tradução.
 
 Antes de compartilhá-la, digo de antemão:
 - NÃO sou tradutor profissional;
