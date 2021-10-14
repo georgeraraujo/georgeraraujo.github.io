@@ -21,6 +21,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Este é o site pessoal de Georger Araújo.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: G-LLJDKYG9S1
+
 twitter_username: georger_araujo
 instagram_username: georger_araujo
 
