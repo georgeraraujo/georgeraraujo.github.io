@@ -21,19 +21,21 @@ description: >- # this means to ignore newlines until "baseurl:"
   Um site sobre software livre e bateria.
 twitter_username: georger_araujo
 github_username: georger_araujo
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 repository: georgeraraujo/georgeraraujo.github.io
+
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
-paginate_path: /page:num/
-timezone: America/Fortaleza # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 date_format: "%d/%m/%Y"
+timezone: America/Fortaleza
+paginate: 10
+paginate_path: /page:num/
+words_per_minute: 200
 
 include:
   - _pages
@@ -88,8 +90,6 @@ footer:
     #- label: "GitHub"
     #  icon: "fab fa-fw fa-github"
     #  url: "https://github.com/georgeraraujo"
-
-words_per_minute: 200
 
 # Analytics
 analytics:
