@@ -1,8 +1,8 @@
 ---
-layout: page
-title: Sobre
+title: "Sobre"
 permalink: /sobre/
 ---
+
 Olá! Sou Georger Araújo e este é meu site pessoal.
 
 Sou entusiasta (leia-se nerd :nerd_face:) do software livre desde os idos de 2001, e considero que sua maior virtude é por o usuário no comando.

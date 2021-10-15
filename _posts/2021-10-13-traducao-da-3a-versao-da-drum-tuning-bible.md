@@ -1,13 +1,17 @@
 ---
-layout: post
 title: "Bíblia de Afinação de Tambores – Tradução da 3ª versão da Drum Tuning Bible"
 date: 2021-10-13 12:10:19 -0300
-categories: bateria
+categories:
+  - bateria
+tags:
+  - bateria
 author: "Georger Araújo"
-meta: "afinação bateria"
+excerpt_separator: "<!--more-->"
 ---
 Oi pessoal,  
-Acredito que muita gente já deve ter ouvido falar da _Drum Tuning Bible_, um documento extenso de autoria de Scott Johnson sobre (claro) afinação de bateria. Em minhas leituras para um livro de introdução à bateria que estou escrevendo, li a tradução de Daniel Majer para a segunda versão, que baixei do [batera.com.br][bcb-bpab], intitulada "Bíblia para afinar bateria". Gostei bastante.
+Acredito que muita gente já deve ter ouvido falar da _Drum Tuning Bible_, um documento extenso de autoria de Scott Johnson sobre (claro) afinação de bateria.
+<!--more-->
+Em minhas leituras para um livro de introdução à bateria que estou escrevendo, li a tradução de Daniel Majer para a segunda versão, que baixei do [batera.com.br][bcb-bpab], intitulada "Bíblia para afinar bateria". Gostei bastante.
 
 Tive algumas dúvidas, resolvi ler a original e vi que a versão mais recente, a terceira, datada de 22 de janeiro de 2005 e disponível [aqui][profsound], aparentemente ainda não tinha tradução para o português. Decidi fazer uma.
 
