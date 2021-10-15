@@ -9,7 +9,7 @@ author: "Georger Araújo"
 excerpt_separator: "<!--more-->"
 ---
 Oi pessoal,  
-Acredito que muita gente já deve ter ouvido falar da _Drum Tuning Bible_, um documento extenso de autoria de Scott Johnson sobre (claro) afinação de bateria.
+acredito que muita gente já deve ter ouvido falar da _Drum Tuning Bible_, um documento extenso de autoria de Scott Johnson sobre (claro) afinação de bateria.
 <!--more-->
 Em minhas leituras para um livro de introdução à bateria que estou escrevendo, li a tradução de Daniel Majer para a segunda versão, que baixei do [batera.com.br][bcb-bpab], intitulada "Bíblia para afinar bateria". Gostei bastante.
 
