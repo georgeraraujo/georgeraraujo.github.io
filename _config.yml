@@ -18,7 +18,7 @@ author: Georger Araújo
 email: 
 lang: pt-BR
 description: >- # this means to ignore newlines until "baseurl:"
-  Este é o site pessoal de Georger Araújo.
+  Um site sobre software livre e bateria.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: G-LLJDKYG9S1
@@ -39,6 +39,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
   - jemoji
 
 # Exclude from processing.
