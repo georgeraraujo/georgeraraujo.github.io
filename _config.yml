@@ -28,6 +28,7 @@ search: true
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 repository: georgeraraujo/georgeraraujo.github.io
+github: [metadata]  # Added this to avoid the "No GitHub API authentication could be found. Some fields may be missing or have incorrect data." warning when starting Jekyll.
 
 # Outputting
 permalink: /:categories/:title/
