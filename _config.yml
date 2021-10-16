@@ -68,12 +68,12 @@ author:
   instagram: georger_araujo
   twitter  : georger_araujo
   links:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/georger_araujo"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/georger_araujo"
+    #- label: "Instagram"
+    #  icon: "fab fa-fw fa-instagram"
+    #  url: "https://instagram.com/georger_araujo"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/georger_araujo"
     #- label: "GitHub"
     #  icon: "fab fa-fw fa-github"
     #  url: "https://github.com/georgeraraujo"
