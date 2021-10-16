@@ -5,7 +5,6 @@ categories:
   - bateria
 tags:
   - bateria
-author: "Georger Araújo"
 excerpt_separator: "<!--more-->"
 ---
 Oi pessoal,  
