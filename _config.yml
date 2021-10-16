@@ -62,9 +62,11 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Georger Araújo"
-  avatar : "/assets/images/bio-photo.png"
-  bio    : "Entusiasta de software livre, punk rock e bateria."
+  name     : "Georger Araújo"
+  avatar   : "/assets/images/bio-photo.png"
+  bio      : "Entusiasta de software livre, punk rock e bateria."
+  instagram: georger_araujo
+  twitter  : georger_araujo
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
