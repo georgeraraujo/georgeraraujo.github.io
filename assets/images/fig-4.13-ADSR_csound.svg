@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="182.39491mm"
+   height="89.501289mm"
+   viewBox="0 0 182.39491 89.501286"
+   version="1.1"
+   id="svg1388"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="ADSR_csound.svg">
+  <defs
+     id="defs1382">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect52"
+       is_visible="true"
+       offset_points="1,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3058327"
+     inkscape:cx="459.09817"
+     inkscape:cy="169.13629"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="1912"
+     inkscape:window-y="278"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0" />
+  <metadata
+     id="metadata1385">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(263.17693,-128.45957)">
+    <g
+       style="font-style:normal;font-weight:400;font-size:8.25px;font-family:'MS Shell Dlg 2';fill:none;fill-rule:evenodd;stroke:#0000c0;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+       id="g992"
+       font-style="normal"
+       font-weight="400"
+       font-size="8.25"
+       transform="matrix(0.35277727,0,0,0.35277727,-253.84045,99.276706)">
+      <path
+         style="vector-effect:non-scaling-stroke;fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         id="path990"
+         d="m 3.5,282.95 v -4.232 m 1,5.295 v -6.092 m 1,5.252 v -5.356 m 1,6.827 v -7.288 m 1,7.998 v -8.708 m 1,8.431 v -8.154 m 1,8.109 v -8.064 m 1,8.744 v -9.424 m 1,10.203 v -10.982 m 1,11.556 v -12.13 m 1,13.12 v -14.11 m 1,13.423 v -12.736 m 1,12.554 v -12.372 m 1,13.042 v -13.712 m 1,14.742 v -15.772 m 1,16.598 v -17.424 m 1,18.241 v -19.058 m 1,18.505 v -17.952 m 1,17.489 v -17.026 m 1,17.486 v -17.946 m 1,19.175 v -20.404 m 1,21.687 v -22.97 m 1,23.517 v -24.064 m 1,23.575 v -23.086 m 1,22.373 v -21.66 m 1,21.83 v -22 m 1,23.415 v -24.83 m 1,26.35 v -27.87 m 1,28.7 v -29.53 m 1,28.908 v -28.286 m 1,27.387 v -26.488 m 1,26.236 v -25.984 m 1,27.509 v -29.034 m 1,30.751 v -32.468 m 1,33.719 v -34.97 m 1,34.308 v -33.646 m 1,32.546 v -31.446 m 1,30.74 v -30.034 m 1,31.528 v -33.022 m 1,34.928 v -36.834 m 1,38.655 v -40.476 m 1,39.677 v -38.878 m 1,37.704 v -36.53 m 1,35.389 v -34.248 m 1,35.521 v -36.794 m 1,38.895 v -40.996 m 1,43.263 v -45.53 m 1,44.957 v -44.384 m 1,43.065 v -41.746 m 1,40.252 v -38.758 m 1,39.558 v -40.358 m 1,42.649 v -44.94 m 1,47.149 v -49.358 m 1,50.095 v -50.832 m 1,48.962 v -47.092 m 1,45.377 v -43.662 m 1,43.7 v -43.738 m 1,46.202 v -48.666 m 1,51.242 v -53.818 m 1,55.021 v -56.224 m 1,54.402 v -52.58 m 1,50.675 v -48.77 m 1,47.999 v -47.228 m 1,49.721 v -52.214 m 1,54.974 v -57.734 m 1,59.689 v -61.644 m 1,59.938 v -58.232 m 1,56.113 v -53.994 m 1,52.488 v -50.982 m 1,53.26 v -55.538 m 1,58.486 v -61.434 m 1,64.094 v -66.754 m 1,65.356 v -63.958 m 1,61.678 v -59.398 m 1,57.281 v -55.164 m 1,56.926 v -58.688 m 1,61.819 v -64.95 m 1,68.246 v -71.542 m 1,70.575 v -69.608 m 1,67.257 v -64.906 m 1,62.362 v -59.818 m 1,60.716 v -61.614 m 1,64.926 v -68.238 m 1,71.601 v -74.964 m 1,75.537 v -76.11 m 1,73.34 v -70.57 m 1,67.809 v -65.048 m 1,64.75 v -64.452 m 1,67.919 v -71.386 m 1,74.978 v -78.57 m 1,80.265 v -81.96 m 1,79.171 v -76.382 m 1,73.435 v -70.488 m 1,69.048 v -67.608 m 1,70.967 v -74.326 m 1,78.099 v -81.872 m 1,84.619 v -87.366 m 1,84.838 v -82.31 m 1,79.18 v -76.05 m 1,73.646 v -71.242 m 1,74.151 v -77.06 m 1,81.012 v -84.964 m 1,88.549 v -92.134 m 1,90.246 v -88.358 m 1,85.046 v -81.734 m 1,78.602 v -75.47 m 1,77.541 v -79.612 m 1,83.749 v -87.886 m 1,92.134 v -96.382 m 1,95.43 v -94.478 m 1,91.05 v -87.622 m 1,84.045 v -80.468 m 1,81.249 v -82.03 m 1,86.346 v -90.662 m 1,95.07 v -99.478 m 1,100.302 V 230.437 m 1,97.385 v -93.644 m 1,89.869 v -86.094 m 1,85.266 v -84.438 m 1,88.843 v -93.248 m 1,97.835 V 229.789 m 1,104.777 V 227.434 m 1,103.467 v -99.802 m 1,95.845 v -91.888 m 1,89.646 v -87.404 m 1,91.526 v -95.648 m 1,100.176 V 228.648 m 1,107.28 V 226.072 m 1,105.78 V 230.148 m 1,96.891 v -92.078 m 1,88.181 v -84.284 m 1,86.651 v -89.018 m 1,92.612 v -96.206 m 1,99.326 V 229.777 m 1,99.511 v -96.576 m 1,92.057 v -87.538 m 1,83.315 v -79.092 m 1,80.142 v -81.192 m 1,84.509 v -87.826 m 1,91.109 v -94.392 m 1,92.72 v -91.048 m 1,86.882 v -82.716 m 1,78.586 v -74.456 m 1,74.028 v -73.6 m 1,76.647 v -79.694 m 1,82.6 v -85.506 m 1,85.613 v -85.72 m 1,81.691 v -77.662 m 1,73.798 v -69.934 m 1,68.228 v -66.522 m 1,69.138 v -71.754 m 1,74.377 v -77 m 1,78.109 v -79.218 m 1,75.739 v -72.26 m 1,68.666 v -65.072 m 1,62.586 v -60.1 m 1,62.04 v -63.98 m 1,66.326 v -68.672 m 1,70.366 v -72.06 m 1,69.297 v -66.534 m 1,63.246 v -59.958 m 1,57.118 v -54.278 m 1,55.356 v -56.434 m 1,58.489 v -60.544 m 1,62.477 v -64.41 m 1,62.379 v -60.348 m 1,57.427 v -54.506 m 1,51.653 v -48.8 m 1,48.932 v -49.064 m 1,50.939 v -52.814 m 1,54.901 v -56.988 m 1,57.265 v -57.542 m 1,55.02 v -52.498 m 1,50.206 v -47.914 m 1,47.579 v -47.244 m 1,49.519 v -51.794 m 1,54.082 v -56.37 m 1,57.2 v -58.03 m 1,55.738 v -53.446 m 1,51.163 v -48.88 m 1,47.754 v -46.628 m 1,48.727 v -50.826 m 1,53.115 v -55.404 m 1,56.93 v -58.456 m 1,56.428 v -54.4 m 1,52.124 v -49.848 m 1,48.135 v -46.422 m 1,48.141 v -49.86 m 1,52.148 v -54.436 m 1,56.356 v -58.276 m 1,56.912 v -55.548 m 1,53.182 v -50.816 m 1,48.719 v -46.622 m 1,47.757 v -48.892 m 1,51.181 v -53.47 m 1,55.852 v -58.234 m 1,57.194 v -56.154 m 1,53.966 v -51.778 m 1,49.506 v -47.234 m 1,47.58 v -47.926 m 1,50.214 v -52.502 m 1,54.787 v -57.072 m 1,57.266 v -57.46 m 1,55.107 v -52.754 m 1,50.463 v -48.172 m 1,47.605 v -47.038 m 1,49.287 v -51.536 m 1,53.824 v -56.112 m 1,57.134 v -58.156 m 1,55.942 v -53.728 m 1,51.433 v -49.138 m 1,47.835 v -46.532 m 1,48.55 v -50.568 m 1,52.856 v -55.144 m 1,56.844 v -58.544 m 1,56.577 v -54.61 m 1,52.358 v -50.106 m 1,48.27 v -46.434 m 1,48.018 v -49.602 m 1,51.89 v -54.178 m 1,56.226 v -58.274 m 1,57.006 v -55.738 m 1,53.406 v -51.074 m 1,48.91 v -46.746 m 1,47.69 v -48.634 m 1,50.923 v -53.212 m 1,55.353 v -57.494 m 1,57.233 v -56.972 m 1,54.505 v -52.038 m 1,49.752 v -47.466 m 1,47.567 v -47.668 m 1,49.956 v -52.244 m 1,54.532 v -56.82 m 1,57.257 v -57.694 m 1,55.347 v -53 m 1,50.715 v -48.43 m 1,47.647 v -46.864 m 1,49.071 v -51.278 m 1,53.566 v -55.854 m 1,57.055 v -58.256 m 1,56.131 v -54.006 m 1,51.701 v -49.396 m 1,47.931 v -46.466 m 1,48.388 v -50.31 m 1,52.598 v -54.886 m 1,56.703 v -58.52 m 1,56.711 v -54.902 m 1,52.632 v -50.362 m 1,48.42 v -46.478 m 1,47.911 v -49.344 m 1,51.632 v -53.92 m 1,56.18 v -58.44 m 1,57.087 v -55.734 m 1,53.533 v -51.332 m 1,49.115 v -46.898 m 1,47.637 v -48.376 m 1,50.665 v -52.954 m 1,54.915 v -56.876 m 1,57.256 v -57.636 m 1,54.968 v -52.3 m 1,50.01 v -47.72 m 1,47.567 v -47.414 m 1,49.7 v -51.986 m 1,54.274 v -56.562 m 1,57.233 v -57.904 m 1,55.576 v -53.248 m 1,50.968 v -48.688 m 1,47.703 v -46.718 m 1,48.869 v -51.02 m 1,53.308 v -55.596 m 1,56.98 v -58.364 m 1,56.306 v -54.248 m 1,51.951 v -49.654 m 1,48.042 v -46.43 m 1,48.241 v -50.052 m 1,52.341 v -54.63 m 1,56.505 v -58.38 m 1,56.831 v -55.282 m 1,52.952 v -50.622 m 1,48.586 v -46.55 m 1,47.818 v -49.086 m 1,51.374 v -53.662 m 1,56.077 v -58.492 m 1,57.153 v -55.814 m 1,53.701 v -51.588 m 1,49.333 v -47.078 m 1,47.598 v -48.118 m 1,50.407 v -52.696 m 1,54.892 v -57.088 m 1,57.266 v -57.444 m 1,55.003 v -52.562 m 1,50.27 v -47.978 m 1,47.584 v -47.19 m 1,49.459 v -51.728 m 1,54.016 v -56.304 m 1,57.185 v -58.066 m 1,55.791 v -53.516 m 1,51.231 v -48.946 m 1,47.774 v -46.602 m 1,48.682 v -50.762 m 1,53.05 v -55.338 m 1,56.911 v -58.484 m 1,56.466 v -54.448 m 1,52.18 v -49.912 m 1,48.167 v -46.422 m 1,48.108 v -49.794 m 1,52.082 v -54.37 m 1,56.313 v -58.256 m 1,56.936 v -55.616 m 1,53.248 v -50.88 m 1,48.765 v -46.65 m 1,47.739 v -48.828 m 1,51.116 v -53.404 m 1,55.742 v -58.08 m 1,57.205 v -56.33 m 1,54.087 v -51.844 m 1,49.566 v -47.288 m 1,47.574 v -47.86 m 1,50.149 v -52.438 m 1,54.726 v -57.014 m 1,57.265 v -57.516 m 1,55.166 v -52.816 m 1,50.526 v -48.236 m 1,47.614 v -46.992 m 1,49.231 v -51.47 m 1,53.758 v -56.046 m 1,57.114 v -58.182 m 1,55.991 v -53.8 m 1,51.502 v -49.204 m 1,47.859 v -46.514 m 1,48.509 v -50.504 m 1,52.792 v -55.08 m 1,56.815 v -58.55 m 1,56.612 v -54.674 m 1,52.422 v -50.17 m 1,48.306 v -46.442 m 1,47.989 v -49.536 m 1,51.825 v -54.114 m 1,56.21 v -58.306 m 1,57.027 v -55.748 m 1,53.443 v -51.138 m 1,48.948 v -46.758 m 1,47.441 v -48.124 m 1,50.104 v -52.084 m 1,53.742 v -55.4 m 1,55.107 v -54.814 m 1,52.051 v -49.288 m 1,46.88 v -44.472 m 1,44.253 v -44.034 m 1,45.872 v -47.71 m 1,49.475 v -51.24 m 1,51.381 v -51.522 m 1,49.138 v -46.754 m 1,44.489 v -42.224 m 1,41.235 v -40.246 m 1,41.847 v -43.448 m 1,45.065 v -46.682 m 1,47.468 v -48.254 m 1,46.12 v -43.986 m 1,41.902 v -39.818 m 1,38.348 v -36.878 m 1,38.088 v -39.298 m 1,40.77 v -42.242 m 1,43.298 v -44.354 m 1,42.829 v -41.304 m 1,39.283 v -37.262 m 1,35.556 v -33.85 m 1,34.55 v -35.25 m 1,36.575 v -37.9 m 1,39.131 v -40.362 m 1,39.297 v -38.232 m 1,36.387 v -34.542 m 1,32.813 v -31.084 m 1,31.198 v -31.312 m 1,32.49 v -33.668 m 1,34.695 v -35.722 m 1,35.557 v -35.392 m 1,33.532 v -31.672 m 1,30.07 v -28.468 m 1,27.988 v -27.508 m 1,28.523 v -29.538 m 1,30.488 v -31.438 m 1,31.557 v -31.676 m 1,30.253 v -28.83 m 1,27.285 v -25.74 m 1,24.873 v -24.006 m 1,24.764 v -25.522 m 1,26.322 v -27.122 m 1,27.736 v -28.35 m 1,26.766 v -25.182 m 1,24.043 v -22.904 m 1,21.834 v -20.764 m 1,21.185 v -21.606 m 1,22.257 v -22.908 m 1,23.253 v -23.598 m 1,23.116 v -22.634 m 1,21.232 v -19.83 m 1,18.763 v -17.696 m 1,17.748 v -17.8 m 1,18.293 v -18.786 m 1,19.059 v -19.332 m 1,19.218 v -19.104 m 1,17.908 v -16.712 m 1,15.732 v -14.752 m 1,14.455 v -14.158 m 1,14.486 v -14.814 m 1,15.067 v -15.32 m 1,15.322 v -15.324 m 1,14.099 v -12.874 m 1,12.366 v -11.858 m 1,11.275 v -10.692 m 1,10.84 v -10.988 m 1,11.132 v -11.276 m 1,10.899 v -10.522 m 1,10.774 v -11.026 m 1,9.592 v -8.158 m 1,7.786 v -7.414 m 1,7.24 v -7.066 m 1,7.205 v -7.344 m 1,7.322 v -7.3 m 1,6.192 v -5.614 m 1,4.636 v -4.591 m 1,4.78 v -4.462 m 1,4.565 v -3.54 m 1,2.982 v -1.979" />
+    </g>
+    <polyline
+       style="fill:none;stroke:#000000;stroke-width:7.25929"
+       points="66.9185,63.8462 66.9185,1039.5708     1552.8599,1039.5708 "
+       id="axes"
+       transform="matrix(0.11143913,0,0,0.06741446,-261.08795,128.30036)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-170.80222"
+       y="-258.35242"
+       id="text6003"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan6001"
+         x="-170.80222"
+         y="-258.35242"
+         style="font-size:6.35px;stroke-width:0.264583">amplitude</tspan></text>
+    <text
+       id="text6007"
+       y="206.9684"
+       x="-110.61354"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:6.35px;stroke-width:0.264583"
+         y="206.9684"
+         x="-110.61354"
+         id="tspan6005"
+         sodipodi:role="line">tempo</tspan></text>
+    <polygon
+       points="1541.3677,1061.2368 1564.3481,1039.5708 1541.3677,1017.9028 "
+       transform="matrix(0.1573004,0,0,0.1573004,-330.18175,34.847799)"
+       id="polygon19"
+       style="stroke:#000000;stroke-width:4" />
+    <polygon
+       points="89.0815,69.2905 66.9185,47.624 44.7554,69.2905 "
+       transform="matrix(0.1573004,0,0,0.1573004,-264.15345,121.40825)"
+       id="polygon17"
+       style="stroke:#000000;stroke-width:4" />
+    <g
+       id="g862"
+       transform="translate(0,-2.1166667)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path46"
+         d="m -192.28082,188.25736 c 58.91381,-0.13476 58.91381,-0.13476 58.91381,-0.13476"
+         style="fill:#ff6600;stroke:#ff6600;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-178.42676"
+         y="184.10068"
+         id="text4575"><tspan
+           sodipodi:role="line"
+           id="tspan4573"
+           x="-178.42676"
+           y="184.10068"
+           style="font-size:4.93889px;stroke-width:0.264583"><tspan
+   id="tspan4585"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">S</tspan>ustentação</tspan></text>
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       id="path48"
+       d="m -131.86983,186.04023 c 30.50951,9.51326 30.50951,9.51326 30.50951,9.51326"
+       style="fill:#d45500;stroke:#ff00ff;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text4579"
+       y="212.91211"
+       x="-66.642097"
+       style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"
+       transform="rotate(17)"><tspan
+         style="font-size:4.93889px;stroke-width:0.264583"
+         y="212.91211"
+         x="-66.642097"
+         id="tspan4577"
+         sodipodi:role="line"><tspan
+   id="tspan4587"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">R</tspan>epouso</tspan></text>
+    <g
+       id="g850"
+       transform="rotate(1,-109.97298,127.01128)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path42"
+         d="m -207.80302,179.02977 c -45.82759,19.35269 -45.82759,19.35269 -45.82759,19.35269"
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-295.57159"
+         y="79.143517"
+         id="text4567"
+         transform="rotate(-23)"><tspan
+           sodipodi:role="line"
+           id="tspan4565"
+           x="-295.57159"
+           y="79.143517"
+           style="font-size:4.93889px;stroke-width:0.264583"><tspan
+   id="tspan4581"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">A</tspan>taque</tspan></text>
+    </g>
+    <g
+       id="g856"
+       transform="translate(0,-2.1166667)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path44"
+         d="m -207.80302,179.02977 c 15.5222,9.22759 15.5222,9.22759 15.5222,9.22759"
+         style="fill:#008000;stroke:#008000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="rotate(31)"
+         id="text4571"
+         y="256.0845"
+         x="-90.885132"
+         style="font-style:normal;font-weight:normal;font-size:4.93889px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-size:4.93889px;stroke-width:0.264583"
+           y="256.0845"
+           x="-90.885132"
+           id="tspan4569"
+           sodipodi:role="line"><tspan
+   id="tspan4583"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">D</tspan>ecaimento</tspan></text>
+    </g>
+  </g>
+</svg>
