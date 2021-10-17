@@ -155,8 +155,9 @@ ilustrado na figura a seguir:
 
 ![Envelope ADSR de um bumbo Rogers de 22"](/assets/images/fig-4.14-envelope.png)
 
-Quando um(a) baterista ou fabricante de baterias ou pratos usa o termo decaimento,
-geralmente se refere ao estágio de **repouso**. Este texto adota essa abordagem.
+Quando um(a) baterista ou fabricante de baterias ou pratos usa o
+termo _decaimento_, geralmente se refere ao estágio de **repouso**.
+ Este texto adota essa abordagem.
 {: .notice}
 
 
