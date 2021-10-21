@@ -35,15 +35,15 @@ referência [_Audio Frequency Spectrum Cheatsheet_][audio-frequency-spectrum-che
 
 | Grupo | Banda | Faixa de frequência |
 |:-|:-|:-:|
-| Graves | Subgrave | 20 − 60 Hz  |
-|        | Grave    | 60 − 250 Hz |
+| Agudos | Brilho        | 4 − 6 kHz      |
+|        | Presença      | 6 − 20 kHz     |
 |----
 | Médios | Médios-graves | 250 − 500 Hz   |
 |        | Médios        | 500 Hz − 2 kHz |
 |        | Médios-agudos | 2 − 4 kHz      |
 |----
-| Agudos | Brilho        | 4 − 6 kHz      |
-|        | Presença      | 6 − 20 kHz     |
+| Graves | Subgrave | 20 − 60 Hz  |
+|        | Grave    | 60 − 250 Hz |
 |====
 {: rules="groups"}
 
@@ -63,7 +63,7 @@ nas seções a seguir.
 **Forma de onda** é a representação gráfica em um plano cartesiano
 da amplitude de uma onda em função do tempo.
 
-A forma de onda de um bumbo Rogers de 22" é mostrado na figura a seguir:
+A forma de onda de [um bumbo Rogers de 22"][60s-Rogers-Pop-Kit] é mostrado na figura a seguir:
 
 ![Forma de onda](/assets/images/fig-4.9-forma_de_onda.png)
 
@@ -90,9 +90,8 @@ harmônico:
 
 ![Espectro a partir de 1 s de uma flauta que toca a nota Lá central](/assets/images/fig-4.10-spec2dw.png)
 
-O espectro do momento inicial da percussão
-de [um bumbo Rogers de 22"][60s-Rogers-Pop-Kit], nitidamente inarmônico,
-é mostrado na figura a seguir:
+O espectro do momento inicial da percussão de um bumbo Rogers de 22",
+nitidamente inarmônico, é mostrado na figura a seguir:
 
 ![Espectro do momento inicial da percussão de um bumbo Rogers de 22"](/assets/images/fig-4.11-spec2dw.png)
 
