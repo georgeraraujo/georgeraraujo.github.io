@@ -251,15 +251,15 @@ espessa, dão ao prato uma característica de condução:
 | Atributo ►              	| Tamanho  	|          	| Espessura	|          	| Curvatura do perfil 	|              	| Tamanho da cúpula 	|          	| Afilamento            	|                     	|
 | Influência em ▼         	| Maior    	| Menor    	| +fino 	| +pesado 	| +plana          		| +convexa   	| Menor             	| Maior    	| Pouco/nenhum          	| Afilado             	|
 |-------------------------	|----------	|----------	|-----------|----------	|---------------------	|--------------	|-------------------	|----------	|-----------------------	|---------------------	|
-| Tom                     	| +agudo  	| +grave  	| +grave    | +agudo  	| +grave             	| +agudo      	|                   	|          	|+ agudo                 	|+ grave             	|
+| Tom                     	| +agudo  	| +grave  	| +grave    | +agudo  	| +grave             	| +agudo      	|                   	|          	| + agudo                 	| + grave             	|
 |----
 | Volume                  	| menor    	| maior    	| menor     | maior    	|                     	|              	| menor             	| maior    	|                       	|                     	|
 |----
-| Velocidade da resposta  	| +rápida 	| -rápida 	| +rápida   | -rápida 	| +rápida            	| -rápida     	|- rápida            	|+ rápida 	|- rápida                	|+ rápida            	|
+| Velocidade da resposta  	| +rápida 	| -rápida 	| +rápida   | -rápida 	| +rápida            	| -rápida     	| -rápida            	| +rápida 	| - rápida                	| + rápida            	|
 |----
-| Intensidade da resposta 	|          	|          	|           |          	| +viva              	| +seca       	|                   	|          	|+ compacta e definida  	| +cheia e explosiva 	|
+| Intensidade da resposta 	|          	|          	|           |          	| +viva              	| +seca       	|                   	|          	| +compacta e definida  	| +cheia e explosiva 	|
 |----
-| Sustentação             	| -longa  	| +longa  	| -longa    | +longa  	|                     	|              	|- longa               	|+ longa  	|+ longa                	| +curta             	|
+| Sustentação             	| -longa  	| +longa  	| -longa    | +longa  	|                     	|              	| -longa               	| +longa  	| +longa                	| +curta             	|
 |----
 | Sobretons               	|          	|          	|           |          	| mais                	| menos        	| menos             	| mais     	| menos                 	| mais                	|
 |====
