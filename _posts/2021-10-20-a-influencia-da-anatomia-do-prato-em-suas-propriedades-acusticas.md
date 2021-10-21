@@ -1,5 +1,5 @@
 ---
-title: "A anatomia do prato e sua influência nas características acústicas"
+title: "A influência da anatomia do prato em suas propriedades acústicas"
 date: 2021-10-20 22:00:00 -0300
 categories:
   - bateria
