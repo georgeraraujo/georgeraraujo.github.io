@@ -84,7 +84,7 @@ investimento e conhecimento especializado.
 ## Bateria eletrônica
 
 A bateria eletrônica consiste de um módulo eletrônico e um conjunto de
-_pads_, que podem ser de borracha, malha (_mesh_) ou silicone. O módulos
+_pads_, que podem ser de borracha, malha (_mesh_) ou silicone. O módulo
 e os _pads_ são montados em um rack. Quando tocamos, o módulo detecta a
 força, a velocidade e outros parâmetros por meio de sensores embutidos
 nos _pads_ e gera o som correspondente.
