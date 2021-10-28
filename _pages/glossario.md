@@ -35,15 +35,15 @@ referência [_Audio Frequency Spectrum Cheatsheet_][audio-frequency-spectrum-che
 
 | Grupo | Banda | Faixa de frequência |
 |:-|:-|:-:|
-| Agudos | Brilho        | 4 − 6 kHz      |
-|        | Presença      | 6 − 20 kHz     |
+| Agudos | Presença      | 6 − 20 kHz     |
+|        | Brilho        | 4 − 6 kHz      |
 |----
-| Médios | Médios-graves | 250 − 500 Hz   |
-|        | Médios        | 500 Hz − 2 kHz |
 |        | Médios-agudos | 2 − 4 kHz      |
+| Médios | Médios        | 500 Hz − 2 kHz |
+|        | Médios-graves | 250 − 500 Hz   |
 |----
-| Graves | Subgrave | 20 − 60 Hz  |
-|        | Grave    | 60 − 250 Hz |
+| Graves | Grave         | 60 − 250 Hz    |
+|        | Subgrave      | 20 − 60 Hz     |
 |====
 {: rules="groups"}
 
