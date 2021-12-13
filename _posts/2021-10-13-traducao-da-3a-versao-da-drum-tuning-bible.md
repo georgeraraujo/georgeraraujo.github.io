@@ -33,7 +33,7 @@ Então para quem tiver curiosidade em ver esse trabalho, que intitulei "Bíblia 
 Não hesitem em me enviar seus comentários e correções para que eu possa atualizar o texto e incluir os nomes de vocês nos créditos da tradução. Podemos fazer esse texto ficar bem bacana e ajudar bastante gente. :drum:
 
 [bcb-bpab]: https://web.archive.org/web/20180402224219/http://www.batera.com.br/Artigos/biblia-para-afinar-bateria
-[profsound]: https://web.archive.org/web/20200924143112/https://web.archive.org/web/20111110023235/http://home.earthlink.net/~prof.sound/
+[profsound]: https://web.archive.org/web/20111110023235/http://home.earthlink.net/~prof.sound/
 [adriano-azevedo]: http://adrianoazevedo.com.br/
 [DTBv3-pt_BR]: https://drive.google.com/file/d/1hDR8UwvztN1fM0Tw5i2gSN-MoGNn0oFv/view?usp=sharing
 [DTBv3-en_US]: https://drive.google.com/file/d/1E5KPgkweRcbtOmalmIA2slNT-Ju5kf-I/view?usp=sharing

@@ -18,7 +18,7 @@ no som de cada um?
 <!--more-->
 Primeiramente vamos descrever o prato e seus elementos anatômicos.
 
-Em seguida, vamos descrever a influência dos atributos físicos no
+Em seguida, vamos tratar da influência dos atributos físicos no
 som do prato, e analisar os sons de alguns pratos.
 
 ## Anatomia dos pratos
