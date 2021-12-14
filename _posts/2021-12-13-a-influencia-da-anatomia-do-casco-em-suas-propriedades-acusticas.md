@@ -17,7 +17,8 @@ cascos de diferentes diâmetros, profundidades e madeiras, dentre outras
 características. Qual é a influência dessas características no som de cada
 um?
 <!--more-->
-Primeiramente vamos descrever o tambor e seus elementos anatômicos.
+
+Primeiramente vamos descrever o tambor e seus componentes anatômicos.
 
 Em seguida, vamos elencar os fatores dos quais resultam
 as características acústicas do tambor.
@@ -46,18 +47,18 @@ Anatomia de um tambor — Eri Zempo, Naoto Wakatsuki, Koichi Mizutani e Yuka Mae
   <figcaption>{{ fig_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
 </figure>
 
-- O **casco** é o cilindro, geralmente de madeira, sobre cujas
+* O **casco** é o cilindro, geralmente de madeira, sobre cujas
 extremidades se esticam as peles;
-- A **pele** é a membrana que o(a) baterista percute;
-- O **aro do tambor** comprime o aro da pele e assim a mantém tensionada
+* A **pele** é a membrana que o(a) baterista percute;
+* O **aro do tambor** comprime o aro da pele e assim a mantém tensionada
 contra a borda do casco;
-- As **canoas** são estruturas afixadas ao casco que recebem em seu interior
+* As **canoas** são estruturas afixadas ao casco que recebem em seu interior
 os parafusos de afinação;
-- Os **parafusos de afinação** são o elo de ligação entre o aro e as canoas.
+* Os **parafusos de afinação** são o elo de ligação entre o aro e as canoas.
 Ao ser apertados ou afrouxados, os parafusos de afinação aumentam ou
 reduzem a tensão aplicada à pele porque regulam a força que o aro do
 tambor exerce sobre o aro da pele.
-  – Para apertar e afrouxar os parafusos de afinação, bem como outros
+  - Para apertar e afrouxar os parafusos de afinação, bem como outros
   parafusos do _kit_, o(a) baterista usa uma **chave de afinação** como
   a mostrada na figura a seguir:  
 
@@ -126,15 +127,16 @@ As informações apresentadas a seguir foram obtidas destas fontes:
 
 1. [Yamaha – The Modern Drum Set, Part 2: The Bass Drum][yamaha2]
 2. [Yamaha – The Structure of the Drum – How sound is produced][yamaha3]
-3. [Pearl – 2000 Masterworks Order Guide][pearl]
-4. [Modern Drummer – What You Need to Know About... Bearing Edges][mdedge]
-5. [Modern Drummer – What You Need to Know About... Drum Shells][mdshell]
-6. [Drum Tuning Bible][profsound]
-7. [Anatomy of a drumshell][md340]
-8. [The Sweet Sound of MDF!][bwmdf]
+3. [Yamaha – Choosing a Drum Set for Worship][yamahaworship]
+4. [Pearl – 2000 Masterworks Order Guide][pearl]
+5. [Modern Drummer – Anatomy of a drumshell][md340]
+6. [Modern Drummer – What You Need to Know About... Drum Shells][mdshell]
+7. [Modern Drummer – What You Need to Know About... Bearing Edges][mdedge]
+8. [Drum Tuning Bible][profsound]
+9. [The Sweet Sound of MDF!][bwmdf]
 
 Ao comparar tambores de dimensões diferentes, partiremos do pressuposto
-que, a menos da dimensão comparada, os demais elementos anatômicos são
+que, a menos da dimensão comparada, os demais componentes anatômicos são
 idênticos.
 
 
@@ -172,11 +174,11 @@ Quanto mais espesso o casco:
 A borda de 45° é provavelmente a mais comum porque é forte,
 fácil de fazer, e produz som com ataque e sustentação notáveis.
 
-As bordas arredondadas, comuns em tambores _vintage_, têm som
-mais aveludado e com menos sobretons.
-
 A borda de 30°, de acordo com John Craviotto, _"acalma o ataque de
 uma borda de 45° ao mesmo tempo que retém a sensibilidade"_.
+
+As bordas arredondadas, comuns em tambores _vintage_, têm som
+mais aveludado e com menos sobretons.
 
 {% capture fig_img %}
 [![](/assets/images/fig-1.21-picedge4.jpg)](https://pdgood.us/drumshed/picedge4.jpg)
@@ -295,6 +297,7 @@ parte do som.
 [md340]: https://www.moderndrummer.com/wp-content/uploads/2017/10/md-340-cs.pdf
 [yamaha2]: https://hub.yamaha.com/drums/stage/part-2-the-bass-drum/
 [yamaha3]: https://www.yamaha.com/en/musical_instrument_guide/drums/mechanism/mechanism003.html
+[yamahaworship]: https://www.yamaha.com/US/houseofworship/downloadables/How-to-Choose-Guides/Yamaha-Guide-to-Choosing-a-Drum-Set.pdf
 [pearl]: https://pearldrum.com/sites/default/files/image_folder/SUPPORT/GENERAL%26SPARE%20PARTS%20CATALOG/PRODUCT%20CATALOG/GENERAL%20DRUM%20SET/2000-masterworks-order-guide.pdf
 [mdedge]: https://www.moderndrummer.com/2014/12/need-know-bearing-edges/
 [mdshell]: https://www.moderndrummer.com/2015/02/need-know-drum-shells/
