@@ -16,10 +16,13 @@ os fabricantes de pratos oferecem uma grande variedade de modelos com
 características diferentes. Qual é a influência dessas características
 no som de cada um?
 <!--more-->
+
 Primeiramente vamos descrever o prato e seus elementos anatômicos.
 
 Em seguida, vamos tratar da influência dos atributos físicos no
-som do prato, e analisar os sons de alguns pratos.
+som do prato.
+
+Por fim, analisaremos os sons de alguns pratos.
 
 ## Anatomia dos pratos
 
