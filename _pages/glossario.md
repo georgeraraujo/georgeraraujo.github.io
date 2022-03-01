@@ -26,7 +26,7 @@ que 1 GHz;
 
 O campo auditivo pode ser dividido em faixas de frequência
 denominadas **grupos**. Os grupos se subdividem em bandas correspondentes
-às características da altura dos sons. Não há consenso na literatura
+às características da altura (frequência) dos sons. Não há consenso na literatura
 sobre a quantidade de grupos nem sobre as faixas de frequência, que
 dependem do campo de aplicação. Uma divisão baseada no
 artigo [_Audio Spectrum Explained_][audio-spectrum-explained] e na
@@ -95,22 +95,15 @@ nitidamente inarmônico, é mostrado na figura a seguir:
 
 ![Espectro do momento inicial da percussão de um bumbo Rogers de 22"](/assets/images/fig-4.11-spec2dw.png)
 
-É possível distinguir entre dois sons de altura indefinida, isto é,
-cujos espectros são inarmônicos, qual é mais alto e qual é mais baixo
-se a maioria de suas componentes espectrais de maior intensidade estiver
-concentrada em bandas diferentes (uma mais aguda, outra mais grave)
-do espectro sonoro.
-{: .notice}
-
 
 ### Espectrograma
 
 Em Acústica, **espectrograma** é uma representação gráfica do espectro
 de um som em função do tempo.
 
-Os espectrogramas geralmente mostram três propriedades de cada componente
+O espectrograma mostra três propriedades de cada componente
 espectral[^9] em um gráfico cartesiano bidimensional: a frequência,
-o momento em que ocorre, e a intensidade. Um dos eixos representa a
+o momento em que ocorre, e a intensidade. Um eixo representa a
 frequência e o outro representa o tempo; a intensidade de uma dada
 frequência em um dado momento é indicada pela cor do ponto que a
 representa.
@@ -156,8 +149,39 @@ ilustrado na figura a seguir:
 
 Quando um(a) baterista ou fabricante de baterias ou pratos usa o
 termo _decaimento_, geralmente se refere ao estágio de **repouso**.
- Este texto adota essa abordagem.
+Este texto adota essa abordagem.
 {: .notice}
+
+
+## Extensão e tessitura
+
+**Extensão** é definida na [Wikipedia][wikipedia-extensao] como segue:
+
+> Em música, o termo **extensão** refere-se ao conjunto de todas as notas que um
+> determinado instrumento musical ou uma voz é capaz de emitir, independente
+> _(sic)_ da qualidade produzida. _(grifo conforme o original)_
+
+**Tessitura** é definida na [Wikipedia][wikipedia-tessitura] como segue:
+
+> Na música, **tessitura** refere-se ao conjunto de notas usadas por um determinado
+> instrumento musical, com a qualidade necessária à sua execução. No
+> caso da voz humana, refere-se ao conjunto de notas que um cantor consegue
+> articular sem esforço excessivo de modo que seja produzida com a qualidade
+> necessária. A tessitura tem, portanto, uma abrangência menor que a extensão.
+> Enquanto que a extensão representa todas as notas **fisicamente** realizáveis, a
+> tessitura refere-se às notas mais frequentemente **utilizáveis**. (grifos conforme o
+> original)
+
+Os tambores e pratos da bateria são instrumentos de percussão
+de altura **indefinida** porque produzem notas cuja altura não pode ser distinguida
+pelo(a) ouvinte – **ruídos**. Mas têm extensão e tessitura, conforme Hugo Pinksterboer expõe
+em sua obra _The Cymbal Book_[^pinksterboer-1993] a respeito dos pratos:
+
+> Pratos são instrumentos de altura indefinida. Se um prato vai ser considerado
+> agudo, médio ou grave vai depender da faixa **dominante** de frequência,
+> ou **tessitura**. **Um bom prato produz frequências em cada uma dessas três
+> áreas**. Todas elas têm uma certa função no som. **As proporções entre elas
+> determinam em grande medida qual é a característica do prato**. _(grifos nossos)_
 
 
 ## Alguns termos subjetivos da Acústica
@@ -168,10 +192,8 @@ Alguns desses termos, que complementam e enriquecem as caracterizações física
 dos sons com descrições visuais e sensoriais, são úteis para descrever
 a sonoridade de tambores e pratos.
 
-Vários dos termos, originados do estudo da acústica de salas de concerto
-e do ramo de gravação e reprodução sonora, bem como de sítios de internet,
-fazem referência às faixas de frequência (grupos) do campo auditivo
-e às bandas nas quais eles se subdividem.
+Vários dos termos fazem referência às faixas de frequência (grupos) do
+campo auditivo e às bandas nas quais eles se subdividem.
 
 ### Termos originados do estudo da acústica de salas de concerto
 
@@ -188,6 +210,11 @@ demasiado intensos;
 - **Brilhante** (_bright_)**:** um som definido, metálico e vibrante,
 com agudos proeminentes de decaimento lento e rico em harmônicos.
 
+É comum descrever a tessitura de um prato ou tambor
+como **quente**, **escura** ou **brilhante**.
+Alguns textos também descrevem o som de tessitura escura
+como **aveludado** ou **encorpado**.
+
 O conceito de calidez foi definido com maior detalhe por
 M. Long (LONG, 2014)[^long-2014] com o auxílio do termo _reverberação_:
 
@@ -197,64 +224,135 @@ a fonte sonora deixa de produzi-lo;
 entre 75 e 350 Hz.
 
 
-### Termos originados do ramo de gravação e reprodução sonora
+## Alguns termos descritivos para pratos
 
-Os termos a seguir foram obtidos de sítios de internet e adaptados
-para este texto.
+O(A)s bateristas usam termos peculiares para descrever características dos pratos. Alguns
+desses termos são apresentados a seguir.
 
-- **Corte:** a capacidade do som (geralmente alto ou forte) de "cortar"
-a música ao redor e se fazer ouvir com clareza entre os sons produzidos
-por outros instrumentos;
-- **Estridente:** som excessivo em médios e/ou agudos, que causa fadiga
-auditiva no(a) ouvinte;
-- **Quente** (_warm_)**:** som com graves e médios-graves entre moderados
-e proeminentes, e agudos suaves e sem estridência;
-- **Escuro** (_dark_)**:** som que combina graves e médios-graves
-proeminentes em forte contraste com agudos recuados; um som quente
-especialmente rico em graves e pobre em agudos. O oposto de _brilhante_.
-Alguns textos também descrevem o som com característica escura
-como **aveludado** ou **encorpado**;
-- **Brilhante** (_bright_)**:** som que combina médios-agudos e agudos
-proeminentes em forte contraste com graves recuados.
-Tem bastante _corte_. O oposto de _escuro_.
+### Articulação de baqueta, _ping_ e _wash_
 
+Os termos a seguir são de autoria de Francisco Domene, proprietário da fabricante de pratos
+Domene Cymbals, em uma [publicação][instagram-domene] no perfil da empresa no Instagram:
 
-### Termos específicos para pratos
+- **Articulação de baqueta:** é o som do estalo da baqueta no prato;
+- **_Ping_:** é o som do metal, como um martelo batendo na bigorna de um ferreiro.
 
-Os termos a seguir, a menos de _"shimmer"_, foram obtidos de sítios
-de internet e adaptados para este texto.
+Os termos a seguir são de autoria de Mike Fitch, em seu
+artigo [_Technique: Finding The Perfect Ride Cymbal_][finding-perfect-ride]:
 
-- **Resposta** (_response_)**:** a combinação da característica
-(_seca_ ou _viva_) e da velocidade (mais/menos _rápida_) com as quais
-o prato reage – "abre" – ao ser tocado;
-- **Seco** (_dry_)**:** prato com som curto e bastante definido, pobre
-em parciais e com pouco _wash_. Contrastar com _vivo_;
-- **Vivo** (_lively_)**:** prato com som vibrante, rico em parciais
-e com _wash_ de moderado a proeminente. Contrastar com _seco_.
-Um prato com som especialmente vivo é dito _explosivo_;
-- **Rápido** (_fast_)**:** prato (geralmente de ataque ou de corte)
-que responde – "abre" – quase imediatamente e por toda sua área ao ser tocado;
-- **Sujo** (_trashy_)**:** prato cujo som tem bastante energia nas
-bandas de médios e médios-agudos, que ao se mesclar com as demais
-frequências resulta em uma combinação áspera e complexa;
-- **_Ping_:** som do estágio de ataque ao tocar o prato
-(geralmente de condução) com a ponta da baqueta. Vem antes do _wash_;
-  - **_Pingy_:** prato com _ping_ nítido e articulado, claramente distinto do _wash_;
-- **_Wash_:** som dos estágios de sustentação e decaimento. Vibrante.
-Vem depois do _ping_;
-  - **_Washy_:** prato com _wash_. Produz um som vibrante e espalhado (_spread_) por uma ampla faixa de frequências;
+- **Definição de baqueta:** é o som (condução[^10] ou _ping_) que o prato faz quando percutido
+pela ponta da baqueta;
+- **_Wash_:** é a mescla de sobretons criada pela vibração do prato.
+
+Os termos a seguir são de autoria de Casey Scheuerell,
+em sua obra _Berklee Jazz Drums_ (SCHEUERELL, 2018)[^scheuerell-2018]:
+
+- **Estalo/Som de baqueta:** é o tanto de baqueta que ouvimos. Se você tocar com uma
+baqueta de madeira em um tampo de mesa de madeira, vai ouvir um "clique" que
+decorre do ataque da baqueta. A parcela desse clique que ouvimos ao tocar o prato é
+chamada "estalo". Também é descrita com frequência como "som de baqueta";
+- **_Wash_:** descreve o som do prato que não é o som do ataque inicial.
+
+#### Comentário sobre a diferença entre som de condução e _ping_
+
+O termo "definição de baqueta" de Fitch abrange dois sons:
+
+1. condução;
+2. _ping_.
+
+São sons com características diferentes. Hugo Pinksterboer,
+em sua obra _The Cymbal Book_[^pinksterboer-1993], dá a seguinte orientação
+para escolher pratos de condução:
+
+> Escute o tipo de som do ataque – o que você escuta no momento que a baqueta
+> toca o prato. Pode variar do som que é comumente descrito como _ping_, que é
+> bastante **brilhante**, até um "tique" extremamente seco ou gutural. _(grifo nosso)_
+
+Trazemos novamente a definição de "brilhante" de L. Beranek[^beranek-2003]:
+
+> Um som definido, metálico e **vibrante**, com **agudos proeminentes** de decaimento
+> lento e rico em harmônicos. _(grifos nossos)_
+
+A definição de _ping_ de Domene, descrita no começo desta seção, segue a mesma linha:
+
+> É o som do metal, como um martelo batendo na bigorna de um ferreiro.
+
+Com estas definições, podemos agora diferenciar com exatidão o som de condução e o _ping_:
+
+- O som de condução – apenas o som do ataque, sem _wash_ – **não tem** agudos proeminentes
+e **não é** vibrante;
+- O _ping_ **tem** agudos proeminentes e **é** vibrante.
+
+Por fim, o _ping_ é comumente associado ao prato de condução. Para produzi-lo, o(a) baterista
+percute a cúpula do prato ou a área circunvizinha.
+
+#### Comentário sobre a diferença entre os sons de condução do chimbal e do prato de condução
+
+Dois pratos têm por função básica tocar a condução: o chimbal (_hi-hat_)
+e o prato de condução (_ride_). Tratamos a seguir da diferença entre os sons
+de condução produzidos por cada um.
+
+- O chimbal, mantido fechado e tocado com as baquetas, produz um som compacto
+e definido – o "clique" do ataque da baqueta – ao qual não se segue _wash_ porque a
+pressão no pedal mantém os pratos juntos em uma posição fixa e os impede de vibrar
+livremente;
+- O prato de condução, por sua vez, vibra livremente após ser percutido na área de
+condução, e por isso seu som de condução será seguido por _wash_.
+
+Podemos então concluir que a diferença entre os sons de condução do chimbal (mantido
+fechado e tocado com as baquetas) e do prato de condução é que o primeiro não é seguido
+por _wash_, e o segundo é.
+
+### Termos descritivos para o _wash_
+
+Há fabricantes de pratos que descrevem o _wash_ de alguns modelos como "sujo" e
+o de outros como _shimmering_:
+
+- **Sujo** (_trashy_)**:** de acordo com o site do artesão [Craig Lauritsen][lauritsen],
+"muitos sons inarmônicos (particularmente na faixa de frequência de médios a
+agudos) de presença similar no _wash_, que resultam em um _wash_ complexo de
+tessitura indistinguível". Essa descrição é comumente aplicada a pratos _china_;
 - **_Shimmer_** ("som prateado")**:** conforme definido por
 Rossing (ROSSING, 2000)[^rossing-2000], agudos entre 3 e 5 kHz
 que se sobressaem na mescla de frequências do _wash_ e evocam
 a sensação de brilho trêmulo;
   - **_Shimmering_:** prato com _shimmer_ proeminente.
 
+### Características funcionais
+
+Dos termos a seguir, "corte" foi obtido do site da fabricante [Sabian][sabian] e
+os demais foram obtidos e adaptados do site da fabricante [Paiste][paiste]:
+
+- **Corte:** a capacidade do som (geralmente alto ou forte) de "cortar"
+a música ao redor e se fazer ouvir com clareza entre os sons produzidos
+por outros instrumentos;
+- **Seco** (_dry_)**:** prato com som compacto e definido, com pouco ou
+nenhum _wash_. Contrastar com _vivo_;
+- **Vivo** (_lively_)**:** prato com som vibrante e _wash_ de moderado a
+proeminente. Contrastar com _seco_.
+Um prato com som especialmente vivo é dito _explosivo_;
+- **Rápido** (_fast_)**:** prato (geralmente de ataque ou de corte)
+que responde – "abre" – quase imediatamente e por toda sua área ao ser tocado;
+- **Resposta** (_response_)**:** a combinação da característica
+(_seca_ ou _viva_) e da velocidade (mais/menos _rápida_) com as quais
+o prato reage – "abre" – ao ser tocado.
+
 
 [audio-spectrum-explained]: https://www.teachmeaudio.com/mixing/techniques/audio-spectrum/
 [audio-frequency-spectrum-cheatsheet]: https://bestmusicstuff.com/products/audio-frequency-spectrum-cheatsheet
 [Flute.nonvib.ff.A4.stereo.aif]: http://theremin.music.uiowa.edu/MIS-Pitches-2012/MISFlute2012.html
 [60s-Rogers-Pop-Kit]: https://www.drum-drops.com/products/60s-rogers-pop-kit
+[^9]: Os sons simples que formam um som composto, cada um com sua frequência e amplitude.
+[wikipedia-extensao]: https://pt.wikipedia.org/wiki/Extens%C3%A3o_(m%C3%BAsica)
+[wikipedia-tessitura]: https://pt.wikipedia.org/wiki/Tessitura
+[^pinksterboer-1993]: Pinksterboer, H. (1993). _The Cymbal Book_. Hal Leonard. ISBN: 9781476866390.
 [^beranek-2003]: Beranek, L. (2003). _Concert Halls and Opera Houses: Music, Acoustics, and Architecture_. Springer New York. ISBN: 9780387955247.
 [^long-2014]: Long, M. (2014). _Architectural Acoustics_. Elsevier Science. ISBN: 9780123982650.
-[^9]: Os sons simples que formam um som composto, cada um com sua frequência e amplitude.
+[instagram-domene]: https://www.instagram.com/p/CLc2_xdjX2l/
+[finding-perfect-ride]: https://www.harmonycentral.com/articles/drum-and-percussion/technique-finding-the-perfect-ride-cymbal-r555/
+[^10]: Pulso constante que faz a manutenção do tempo (em inglês, _timekeeping_).
+[^scheuerell-2018]: Scheuerell, C. (2018). _Berklee Jazz Drums_. Berklee Press. ISBN: 9781540021663.
+[lauritsen]: http://www.cymbalutopia.com/www.cymbalutopia.com/Cymbals_101_%26_Weight_Table.html
+[sabian]: https://sabian.com/education/
+[paiste]: https://www.paiste.com/en/about/everything-cymbals/cymbal-sound-classification-system
 [^rossing-2000]: Rossing, T.D. (2000). _Science of Percussion Instruments_. Series in popular science. World Scientific. ISBN: 9789810241582.
